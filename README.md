@@ -2,5 +2,5 @@
 Projetos de Data Science 
 
 </p>
-#Davi Almeida
+# Davi Almeida
 <sub>*Lead Student Computer Science 
